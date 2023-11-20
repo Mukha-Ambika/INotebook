@@ -1,0 +1,15 @@
+body {
+  background-image: url('./background.jpg');
+  background-size: cover; 
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+}
+
+.button-edit{
+  /* color:#c5b208; */
+  color:#27cd32;
+}
+
+.button-delete{
+  color:rgb(230, 32, 32);
+}
